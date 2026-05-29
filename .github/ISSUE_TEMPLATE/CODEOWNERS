@@ -1,3 +1,10 @@
 # Set default owners for the whole repo
 *       @elnsor
 
+# Specific owners for certain folders
+#uncomment the line below if you have team review to doc replace documentation-team with your team name
+# /docs/  @documentation-team
+# /src/   @backend-dev @frontend-dev
+
+
+
