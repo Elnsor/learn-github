@@ -1,8 +1,9 @@
 # Learning GitHub Workflow
-## for Protect main Branch 
-1- use rule 
-2- use environment
-This project is a demo to practice:
+### 🔓 For Protect main Branch <br>
+1. use rule
+2. use environment
+-----------------------------
+### 👨‍🎓 This project is a demo to practice:
 - Writing a README
 - Creating issues
 - Linking issues to pull requests
