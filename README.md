@@ -14,5 +14,9 @@
 We welcome contributions!  
 Please read our [Contributing Guide](https://github.com/Elnsor/learn-github/blob/main/CONTRIBUTING.md) before making changes
 
+-------------------------
+## 📖 Documentation
+See [Workflow Guide](https://github.com/Elnsor/learn-github/blob/main/doc/documentation.md) for details on how to contribute and track progress.
+
 
 
